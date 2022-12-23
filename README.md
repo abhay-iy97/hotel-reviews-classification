@@ -11,8 +11,10 @@ Developed perceptron classifiers to identify hotel reviews as either truthful or
 
 ## Execution
 
-- The learning program will be invoked in the following way:
+The learning program will be invoked in the following way:
+
 `` python perceplearn.py /path/to/input ``
 
-- The classification program will be invoked in the following way:
+The classification program will be invoked in the following way:
+
 `` python percepclassify.py /path/to/model /path/to/input ``
